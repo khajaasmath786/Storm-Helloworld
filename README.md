@@ -61,3 +61,5 @@ http://localhost:8772
 
 see the topology, spouts and bolts from the UI.
 
+Note: You can see topology in STORM UI only when topology is submitted to the cluser by passing arguments.
+
